@@ -16,7 +16,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username= Im-Kamall&theme=date_night&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### quote of the day 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ### 🔝 Top Contributed Repo
