@@ -1,4 +1,4 @@
-#  Hiiiii
+# - Hi , im kamal solanki
 # 💫 About Me:
 🔭 I’m currently working on<br>Building real-world data science and Python projects to strengthen my practical skills.<br><br>👯 I’m looking to collaborate on<br>Data science, machine learning, and open-source Python projects.<br><br>🤝 I’m looking for help with<br>Improving my problem-solving skills and understanding advanced ML concepts.<br><br>🌱 I’m currently learning<br>Data analysis, machine learning, and advanced Python.<br><br>💬 Ask me about<br>Python, data science basics, and beginner-friendly projects.<br><br>⚡ Fun fact<br>I enjoy turning data into meaningful insights and continuously learning new tech skills
 
