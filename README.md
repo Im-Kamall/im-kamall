@@ -1,220 +1,291 @@
-Hi 👋, I'm Kamal Solanki
+````md
+<div align="center">
 
-<h3 align="center">
-🚀 Aspiring AI Engineer | Data Science Enthusiast | Machine Learning Explorer | Python Developer
-</h3><p align="center">
-Building my journey from <b>Python Developer → Data Scientist → Machine Learning Engineer → AI Engineer</b>
-</p><p align="center">
-<img src="https://komarev.com/ghpvc/?username=im-kamall&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Im-Kamall?label=Followers&style=social" alt="followers"/>
-<img src="https://img.shields.io/github/stars/Im-Kamall?affiliations=OWNER&style=social" alt="stars"/>
-</p>---
+# Kamal Solanki
 
-🚀 About Me
+### Data Science Learner · Python Developer · Future ML/AI Engineer
 
-🎓 Computer Science Engineering Student
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Python+%7C+Data+Science+%7C+Machine+Learning;Building+Projects+%26+Solving+DSA;Future+AI+Engineer" alt="Typing SVG" />
 
-💡 Passionate about Artificial Intelligence, Data Science, Machine Learning, and Software Development.
+<br>
 
-📚 Currently learning and building projects in:
+<a href="https://www.linkedin.com/in/kamalsolanki-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Kamal%20Solanki-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/Im-Kamall">
+  <img src="https://img.shields.io/badge/GitHub-Im--Kamall-black?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:solankikamal754@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
-- Python Programming
-- SQL & Databases
-- NumPy & Pandas
-- Data Analysis & Visualization
-- Machine Learning
-- Deep Learning
-- Generative AI
-- FastAPI
-- Docker
-- MLOps
+<br><br>
 
-🎯 My Goal:
+<img src="https://komarev.com/ghpvc/?username=Im-Kamall&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Im-Kamall?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/Im-Kamall?label=Stars&style=for-the-badge" />
 
-Become a highly skilled AI Engineer capable of building intelligent systems, scalable ML applications, and impactful real-world AI solutions.
-
-«"Consistency beats talent when talent doesn't work hard."»
+</div>
 
 ---
 
-🚀 Current Learning Roadmap
+## 🚀 Vision
 
-✅ Completed
-
-- Python Fundamentals
-- Git & GitHub
-- SQL Fundamentals
-- IBM SQL Certification
-
-🔄 Currently Learning
-
-- NumPy
-- Pandas
-- Data Analysis
-- Data Visualization
-
-⏳ Upcoming
-
-- Machine Learning
-- Deep Learning
-- FastAPI
-- Docker
-- MLOps
-- Generative AI
-- AI Agents
-- RAG Applications
+> I am building my journey from **Python fundamentals** to **Data Science, Machine Learning, and AI Engineering** by learning deeply, solving problems, and creating real-world projects.
 
 ---
 
-🛠️ Languages & Tools
+## 👋 Who I Am
+
+I'm **Kamal Solanki**, a Computer Science Engineering student focused on becoming a strong **Data Scientist, Machine Learning Engineer, and AI Engineer**.
+
+I am currently strengthening my foundation in **Python, DSA, SQL, Data Science, Machine Learning, GitHub, and real-world project development**.
+
+My goal is not just to collect certificates, but to build a portfolio that proves my skills through clean code, useful projects, and consistent learning.
+
+---
+
+## ⚡ At a Glance
+
+```txt
+name:        Kamal Solanki
+role:        CSE Student
+focus:       Data Science · ML · AI
+learning:    Python · SQL · DSA · Pandas · ML
+goal:        Data Science Intern → ML Engineer → AI Engineer
+github:      Im-Kamall
+location:    India
+````
+
+---
+
+## 🔭 Currently Building & Learning
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛠️ Building
+
+* Python real-world projects
+* Data Science portfolio
+* DSA solutions in Python
+* Industrial dashboard projects
+* Exoplanet AI project
+* GitHub profile and repositories
+
+</td>
+<td width="50%">
+
+### 🌱 Learning
+
+* Python Advanced Concepts
+* SQL and Databases
+* Pandas, NumPy, Matplotlib
+* Data Cleaning and EDA
+* Machine Learning Fundamentals
+* Git, GitHub and Open Source
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode,linux,docker,fastapi,django,tensorflow" />
-</p>Data Science & AI Tools
 
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- TensorFlow
-- Statistics
-- Machine Learning
-- Deep Learning
-- Generative AI
+<img src="https://skillicons.dev/icons?i=python,cpp,mysql,git,github,vscode,linux,mongodb" />
 
----
+</p>
 
-📂 Featured Projects
+### 🧠 Languages & Core
 
-💰 Personal Expense Tracker
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-Python-based Expense Tracking Application built using:
+### 📊 Data Science
 
-- Object-Oriented Programming (OOP)
-- CSV Data Storage
-- File Handling
-- Exception Handling
-- Modular Programming
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 
-📊 Industrial Equipment Monitoring Dashboard
+### 🤖 AI / ML
 
-Interactive Tableau Dashboard featuring:
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-7B2CBF?style=for-the-badge)
 
-- Factory Analytics
-- Device Monitoring
-- Downtime Analysis
-- Temperature Insights
+### 🛠️ Tools
 
-🤖 Upcoming AI Projects
-
-- Resume Analyzer
-- PDF Chatbot
-- AI Agent Assistant
-- RAG System
-- ML Prediction Models
-- FastAPI Deployments
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
-📈 GitHub Statistics
+## 📌 Featured Projects
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Im-Kamall&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Kamall&layout=compact&theme=tokyonight"/>
-</p>---
-
-🔥 Contribution Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Kamall&theme=tokyonight"/>
-</p>---
-
-📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Im-Kamall&theme=tokyo-night"/>
-</p>---
-
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Im-Kamall&theme=tokyonight&row=2&column=4"/>
-</p>---
-
-📜 Certifications
-
-🏅 IBM SQL Certification
-
-🏅 Deloitte Data Analytics Virtual Experience
-
-🚀 Currently pursuing:
-
-- Data Science Certifications
-- Machine Learning Certifications
-- AI Certifications
-- Cloud Certifications
+| Project                            | Description                                                    | Tech                      |
+| ---------------------------------- | -------------------------------------------------------------- | ------------------------- |
+| **Personal Expense Tracker**       | Python app using OOP, CSV handling, modular code, and reports  | Python, CSV, OOP          |
+| **Industrial Equipment Dashboard** | Dashboard project for monitoring equipment and visual insights | Data Analytics, Dashboard |
+| **Exoplanet AI Project**           | AI/ML project exploring astronomical light curve data          | Python, ML, Data          |
+| **DSA Journey**                    | Daily problem-solving practice in Python                       | Python, DSA               |
+| **Data Science Portfolio**         | Collection of upcoming data analysis and ML projects           | Pandas, NumPy, ML         |
 
 ---
 
-🌱 Current Focus
+## 📊 GitHub Metrics & Stats Dashboard
 
-🔭 Building Real-World Python Projects
+<div align="center">
 
-📚 Mastering Data Science & Machine Learning
+<img src="https://github-readme-stats.vercel.app/api?username=Im-Kamall&show_icons=true&theme=tokyonight&hide_border=true" />
 
-🤖 Exploring Generative AI & LLM Applications
+<br><br>
 
-🚀 Creating a Strong AI/ML Portfolio
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Kamall&theme=tokyonight&hide_border=true" />
 
-💼 Preparing for Internships & Future AI Roles
+<br><br>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Kamall&layout=compact&theme=tokyonight&hide_border=true" />
 
-🤝 Looking to Collaborate On
-
-- Open Source Python Projects
-- Data Science Projects
-- Machine Learning Projects
-- AI Applications
-- FastAPI Projects
+</div>
 
 ---
 
-🌐 Connect With Me
+## 📈 Activity Graph
 
-<p align="left"><a href="https://github.com/Im-Kamall">
-<img src="https://skillicons.dev/icons?i=github" />
-</a><a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a><a href="mailto:solankikamal754@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a></p>📧 Email: solankikamal754@gmail.com
+<div align="center">
 
-🐙 GitHub: https://github.com/Im-Kamall
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Im-Kamall&theme=tokyo-night&hide_border=true" />
 
-📸 Instagram: https://instagram.com/kamallexe__
+</div>
 
 ---
 
-⚡ Fun Fact
+## 🏆 GitHub Trophies
 
-«Every expert was once a beginner.
+<div align="center">
 
-I am documenting my journey from a CSE student to an AI Engineer, one project at a time.»
+<img src="https://github-profile-trophy.vercel.app/?username=Im-Kamall&theme=tokyonight&no-frame=true&row=2&column=4" />
+
+</div>
 
 ---
 
-🚀 AI Engineer Journey
+## 🐍 Contribution Snake
 
-Python Developer
-      ↓
-Data Analyst
-      ↓
-Data Scientist
-      ↓
-Machine Learning Engineer
-      ↓
-AI Engineer
+```txt
+To enable this, create:
+.github/workflows/snake.yml
 
-⭐ If you find my projects interesting, consider starring them and connecting with me!
+Then GitHub will generate a contribution snake animation automatically.
+```
+
+---
+
+## 🧭 Learning Roadmap
+
+```txt
+Python              ████████████░░░░
+SQL                 ████████░░░░░░░░
+Data Science        ███████░░░░░░░░░
+Machine Learning    ████░░░░░░░░░░░░
+Deep Learning       ██░░░░░░░░░░░░░░
+Generative AI       █░░░░░░░░░░░░░░░
+```
+
+---
+
+## 🎯 2026 Goals
+
+* Master Python programming
+* Build 20+ portfolio projects
+* Solve 500+ DSA problems
+* Learn Data Science deeply
+* Build Machine Learning projects
+* Start Deep Learning and Generative AI
+* Contribute to open source
+* Get a Data Science / AI internship
+
+---
+
+## 📜 Certifications
+
+* IBM SQL Certificate
+* Deloitte Data Analytics
+* More certifications coming soon...
+
+---
+
+## 🎙️ Content & Community
+
+<table>
+<tr>
+<td width="50%">
+
+### ✍️ Writing & Sharing
+
+* Sharing my coding journey
+* Posting GitHub progress
+* Documenting projects
+* Learning in public
+
+</td>
+<td width="50%">
+
+### 🤝 Community Goals
+
+* Build open-source projects
+* Connect with developers
+* Learn from AI/ML engineers
+* Help beginners once I grow
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kamalsolanki-dev">
+  <img src="https://img.shields.io/badge/LinkedIn-Kamal%20Solanki-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Im-Kamall">
+  <img src="https://img.shields.io/badge/GitHub-Im--Kamall-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:solankikamal754@gmail.com">
+  <img src="https://img.shields.io/badge/Email-solankikamal754%40gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</div>
+
+---
+
+## 💡 Quote
+
+<div align="center">
+
+> Every project I build is one step closer to becoming the AI engineer I want to be.
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 🚀
+
+⭐ If you like my work, consider following my GitHub journey.
+
+</div>
+```
